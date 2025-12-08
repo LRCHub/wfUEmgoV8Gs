@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "キミの記憶",
+  "base_artist": "川村ゆみ",
+  "createdAt": "2025-12-08T00:58:27.856718Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キミの記憶",
+      "artist": "川村ゆみ",
+      "has_synced": true,
+      "path": "select/01_キミの記憶_川村ゆみ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "キミの記憶【P3】",
+      "artist": "川村ゆみ",
+      "has_synced": false,
+      "path": "select/02_キミの記憶【P3】_川村ゆみ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "キミの記憶",
+      "artist": "川村 ゆみ",
+      "has_synced": true,
+      "path": "select/03_キミの記憶_川村_ゆみ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "キミの記憶",
+      "artist": "川村ゆみ",
+      "has_synced": true,
+      "path": "select/04_キミの記憶_川村ゆみ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "キミの記憶",
+      "artist": "Yumi Kawamura",
+      "has_synced": false,
+      "path": "select/05_キミの記憶_Yumi_Kawamura.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "キミの記憶",
+      "artist": "川村ゆみ",
+      "has_synced": true,
+      "path": "select/06_キミの記憶_川村ゆみ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "キミの記憶",
+      "artist": "Yumi Kawamura",
+      "has_synced": true,
+      "path": "select/07_キミの記憶_Yumi_Kawamura.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "キミの記憶",
+      "artist": "川村ゆみ",
+      "has_synced": true,
+      "path": "select/08_キミの記憶_川村ゆみ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "キミの記憶",
+      "artist": "川村ゆみ",
+      "has_synced": true,
+      "path": "select/09_キミの記憶_川村ゆみ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "キミの記憶",
+      "artist": "川村ゆみ",
+      "has_synced": true,
+      "path": "select/10_キミの記憶_川村ゆみ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "キミの記憶 【P3】",
+      "artist": "Yumi Kawamura",
+      "has_synced": true,
+      "path": "select/11_キミの記憶_【P3】_Yumi_Kawamura.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "キミの記憶 (Remix)",
+      "artist": "川村ゆみ",
+      "has_synced": true,
+      "path": "select/12_キミの記憶_(Remix)_川村ゆみ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キミの記憶【P3】",
+      "artist": "川村ゆみ",
+      "has_synced": false,
+      "path": "select/pl_01_キミの記憶【P3】_川村ゆみ.txt"
+    }
+  ]
+}
